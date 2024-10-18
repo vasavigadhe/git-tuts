@@ -1,3 +1,6 @@
 zxc m,ytrewo horse
 zxc m,ytrewo rat
+<<<<<<< HEAD
 zxc m,ytrewo cat
+=======
+>>>>>>> origin/master
